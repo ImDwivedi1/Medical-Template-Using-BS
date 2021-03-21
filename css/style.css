@@ -1,0 +1,10 @@
+*{margin:0px;}
+.navbar-nav .nav-link{color:black!important; padding-left: 16px!important; padding-right: 16px!important;}
+.line{display: block;  height: 4px; width: 30px; background-color: brown; margin: 4px 0px;}
+/*---------banner------------*/
+.banner{background-image:url(..//img/banner-1.jfif); height:500px; background-size: cover;}
+.card-box{background-color:silver; padding:40px 0px;}
+.circle{background-color: brown ; height:100px; width:100px; border-radius: 100%; margin:12px auto;}
+.col-lg-3{padding:6px;}
+.card{border-radius:0px;}
+.about{padding:40px;}
